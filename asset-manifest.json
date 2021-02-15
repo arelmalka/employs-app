@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/employs-app/static/css/main.adf34995.chunk.css",
+    "main.js": "/employs-app/static/js/main.460d870e.chunk.js",
+    "main.js.map": "/employs-app/static/js/main.460d870e.chunk.js.map",
+    "runtime-main.js": "/employs-app/static/js/runtime-main.e7904dd1.js",
+    "runtime-main.js.map": "/employs-app/static/js/runtime-main.e7904dd1.js.map",
+    "static/js/2.29309cc5.chunk.js": "/employs-app/static/js/2.29309cc5.chunk.js",
+    "static/js/2.29309cc5.chunk.js.map": "/employs-app/static/js/2.29309cc5.chunk.js.map",
+    "static/js/3.3b697913.chunk.js": "/employs-app/static/js/3.3b697913.chunk.js",
+    "static/js/3.3b697913.chunk.js.map": "/employs-app/static/js/3.3b697913.chunk.js.map",
+    "index.html": "/employs-app/index.html",
+    "static/css/main.adf34995.chunk.css.map": "/employs-app/static/css/main.adf34995.chunk.css.map",
+    "static/js/2.29309cc5.chunk.js.LICENSE.txt": "/employs-app/static/js/2.29309cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7904dd1.js",
+    "static/js/2.29309cc5.chunk.js",
+    "static/css/main.adf34995.chunk.css",
+    "static/js/main.460d870e.chunk.js"
+  ]
+}
